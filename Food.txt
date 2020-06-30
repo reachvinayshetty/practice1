@@ -8,4 +8,6 @@ Dosa
 pizza
 burger
 
+rice
+
 thank you
